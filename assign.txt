@@ -1,0 +1,23 @@
+print name
+https://jsfiddle.net/12oqgLyh/
+
+number 1-10
+https://jsfiddle.net/32zfhcxw/
+
+title
+https://jsfiddle.net/harxvctp/
+
+name color
+https://jsfiddle.net/0yukjnmt/
+
+no. diff color
+https://jsfiddle.net/cdv7nmj0/
+
+paragraph
+https://jsfiddle.net/ct5gpLun/1/
+
+compound interest
+https://jsfiddle.net/g2b3h07a/
+
+month javascript
+https://jsfiddle.net/ec963ykw/
