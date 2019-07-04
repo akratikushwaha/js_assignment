@@ -5,3 +5,15 @@ https://jsfiddle.net/qz2tmedL/2/
 login page
 https://jsfiddle.net/fwkba7c2/
 
+jsquery
+https://jsfiddle.net/rt3xk4av/1/
+
+1) Change color on click
+https://jsfiddle.net/0o6q9w41/
+2) upload image of given URL
+https://jsfiddle.net/rg51f9w7/
+3) Countdown
+ https://jsfiddle.net/qtcLwfh5/
+
+Create an application which takes the Regular expression and apply it in the text body.
+https://jsfiddle.net/kw2pov9j/
